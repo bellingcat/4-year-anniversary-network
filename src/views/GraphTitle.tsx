@@ -26,7 +26,7 @@ const GraphTitle: FC<{ filters: FiltersState }> = ({ filters }) => {
 
   return (
     <div className="graph-title">
-      <h1>Entities mentioned in English-language posts from GESARA channels</h1>
+      <h1>Entities mentioned in messages from the Bellingcat Discord server</h1>
       <h2>
         <i>
           {graph.order} node{graph.order > 1 ? "s" : ""}{" "}
