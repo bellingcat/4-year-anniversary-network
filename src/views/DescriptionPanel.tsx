@@ -44,7 +44,7 @@ const DescriptionPanel: FC = () => {
           sigma.js
         </a>
         . You can read the source code{" "}
-        <a target="_blank" rel="noreferrer" href="https://github.com/bellingcat/gesara-entity-viz">
+        <a target="_blank" rel="noreferrer" href="https://github.com/bellingcat/4-year-anniversary-network/">
           on GitHub
         </a>
         .
